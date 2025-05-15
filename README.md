@@ -10,7 +10,7 @@ To run our project, you need to first clone the project and use the following co
   pip install -r requirements.txt
 ```
 ## download dataset
-You can download our metadata and QA dataset through the following methods.
+You can download our metadata and QA dataset through the following methods.   
   metadata: <https://huggingface.co/datasets/CuiQiang/CataTQA_Metadata>    
   dataset: <https://huggingface.co/datasets/CuiQiang/CataTQA>
   
