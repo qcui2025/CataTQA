@@ -9,6 +9,6 @@ Despite their success in general question answering, large language models (LLMs
   pip install -r requirements.txt
 ```
 ## download dataset
-  metadata: <https://huggingface.co/datasets/CuiQiang/CataTQA_Metadata>
+  metadata: <https://huggingface.co/datasets/CuiQiang/CataTQA_Metadata>   
   dataset: <https://huggingface.co/datasets/CuiQiang/CataTQA>
 ## benchmark
